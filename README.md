@@ -1,2 +1,19 @@
-# sql-business-analysis
-SQL analysis of CRM leads to support sales and marketing decisions
+# SQL Business Analysis – CRM Leads
+
+## Overview
+This project demonstrates how SQL can be used to analyze CRM lead data and generate actionable insights for sales and marketing stakeholders.
+
+## Business Questions
+1. Which lead sources generate the highest volume of leads?
+2. How has lead volume trended over time?
+3. Which industries contribute the most leads?
+4. Which countries generate the highest number of leads?
+5. What proportion of leads are missing key contact information?
+
+## Dataset
+- Source: Cleaned CRM leads dataset (simulated)
+- Records: X
+- Format: CSV
+
+## Tools Used
+- SQL
