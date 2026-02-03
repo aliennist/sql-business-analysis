@@ -7,7 +7,6 @@ Notes:
 - Dataset assumes pre-cleaned ingestion-ready records
 - Queries are written in ANSI-compliant SQL where possible
 */
-*/
 
 /* 1. Lead volume by source */
 SELECT
