@@ -17,3 +17,10 @@ This project demonstrates how SQL can be used to analyze CRM lead data and gener
 
 ## Tools Used
 - SQL
+
+## Key Insights
+- Website and paid advertising channels generate the majority of inbound leads.
+- Lead volume shows consistent monthly trends, supporting predictable pipeline planning.
+- Technology and Healthcare are the most represented industries.
+- A minimal percentage of leads lack phone numbers, indicating potential follow-up challenges for sales teams.
+
