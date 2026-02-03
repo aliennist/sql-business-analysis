@@ -11,7 +11,7 @@ This project demonstrates how SQL can be used to analyze CRM lead data and gener
 5. What proportion of leads are missing key contact information?
 
 ## Dataset
-- Source: Cleaned CRM leads dataset (simulated)
+- Source: Dataset sourced from the output of the CRM Data Cleaning & Validation project.
 - Records: X
 - Format: CSV
 
