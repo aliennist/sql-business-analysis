@@ -35,10 +35,20 @@ This project demonstrates how SQL can be used to analyze CRM lead data and gener
 ## Tools Used
 - SQL
 
+
 ## Assumptions & Limitations
 - Dataset represents a simulated CRM export for demonstration purposes
 - Lead conversion and revenue data are not included
 - Analysis focuses on volume and data completeness rather than performance outcomes
+
+
+## Advanced Analysis
+Advanced SQL queries demonstrate:
+- Rolling 3-month trend smoothing using window functions
+- Top industry segmentation by country
+- Lead source performance trends over time
+
+These queries form the logical foundation for the Looker Studio dashboard.
 
 
 ## Query-to-Insight Mapping
